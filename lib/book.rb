@@ -1,6 +1,6 @@
 class Book 
   
-  attr_accessor: 
+  attr_accessor :
   
   def initialize(title)
     @title = title
